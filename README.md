@@ -1,4 +1,4 @@
-# Profanity-Checker
+# Profanity-Checker Using Webpurify API
 
 This Repository Provides Quick Solution To Check Profanity From Text.
 
