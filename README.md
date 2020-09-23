@@ -10,8 +10,13 @@ This Repository Provides Quick Solution To Check Profanity From Text.
 After Downloading Repository, Open The Python File In This Repository & Place Your API Key.
 
 Now It's Time To Install requests Package In Python.
+
+    pip install requests
     
-    ### pip install requests
+
+After Downloading Above Package, Run The Python File.
+
+It Will Give Result As Expected 😀.
 
 
 
